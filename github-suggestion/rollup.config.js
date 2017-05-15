@@ -5,7 +5,7 @@ export default {
     entry: 'index.js',
     dest: 'bundle.js',
     format: 'umd',
-    moduleName: 'sbn',
+    moduleName: 'github-suggestion',
     external: ['ramda', 'rxjs', 'whatwg-fetch'],
     plugins: [
         resolver(),
