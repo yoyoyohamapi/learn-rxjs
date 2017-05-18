@@ -1,0 +1,11 @@
+export const COMMON_TIP_ERROR = 'common/tip/error';
+export const COMMON_TIP_SUCCESS = 'common/tip/success';
+export const COMMON_TIP_HIDE = 'common/tip/hide';
+export const LOGIN_RESET = 'login/reset';
+export const LOGIN_SUBMIT = 'login/submit';
+export const LOGIN_REQUESTING = 'login/requesting';
+export const LOGIN_ENABLE = 'login/enable';
+export const SIGNUP_RESET = 'signup/reset';
+export const SIGNUP_SUBMIT = 'signup/submit';
+export const SIGNUP_REQUESTING = 'signup/requesting';
+export const SIGNUP_ENABLE = 'signup/enable';
